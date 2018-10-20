@@ -1,0 +1,6 @@
+ssh 远程登录
+ssh-keygen 生成密钥对  $HOME/.ssh/目录下
+ssh-copy-id 公钥传送到远程主机
+
+https://blog.csdn.net/qq_35246620/article/details/54317740 详述 SSH 的原理及其应用
+
